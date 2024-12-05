@@ -25,3 +25,6 @@
 	path = lib/lvgl
 	url = https://github.com/qmk/lvgl.git
 	branch = release/v8.2
+[submodule "keyboards/zsa/voyager/keymaps/4R0X0"]
+	path = keyboards/zsa/voyager/keymaps/4R0X0
+	url = git@github.com:rpettit/voyager-keymap.git
